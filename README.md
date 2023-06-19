@@ -1,6 +1,6 @@
 # British Airways Data Science Virtual Experience Programme Submission
 
-This repository contains my British Airways Data Science Virtual Experience Programme submission. The project focuses on analyzing flight reviews for British Airways using data science techniques. The goal is to gain insights from customer feedback and provide recommendations for improving services.
+This repository contains my British Airways Data Science Virtual Experience Programme submission. The project focuses on analyzing flight reviews for British Airways using data science techniques. The goal is to gain valuable insights from customer feedback to provide future recommendations for improving services.
 
 ## Project Overview
 The project consists of the following components:
